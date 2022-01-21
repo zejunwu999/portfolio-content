@@ -1,0 +1,59 @@
+﻿index.html
+Hi! I'm Zejun.
+A passionate designer, a reliable teammate, and a lifelong learner.
+Believing in the power of both humanity and technology.
+
+
+My Projects
+------------------------------------------------------------
+
+
+meet-you-there.html
+
+
+Meet You There
+Website event portal design for Chadsey-Condon Community Organization
+
+
+Challenge
+Chadsey-Condon Community Organization (CCCO) is a Detroit, Michigan-based non-profit organization. CCCO hosts events around neighborhoods and interacts with residents in their areas to build a better community. The current event information presented is not integrated and the event organization process at CCCO is time-consuming. Internal stakeholders, residents, and external partners are having difficulty obtaining all previous and upcoming event information in one place.
+
+
+Solution: An event portal on the current website
+With the project scope and our client vision, we designed an event portal on their current website to help the community improve the event-related information display and event sign-up process as well as to strengthen the relationships with residents and partners.
+
+
+Design Process
+------------------------------------------------------------
+
+
+neurojourney.html
+
+
+Neurojourney:
+VR experience for neuroscience education
+
+
+Problem
+Neuroscience is a subject interesting to explore and important to the studies of many other fields as well. However, the beginning of neuroscience study can be somewhat hard. Unlike subjects such as math or computer science, students see algebra, shapes, or codes exactly as they are on textbooks or desktop screens. The neuroscience theories can be abstract and difficult to understand, especially for starters, because people cannot see what takes place in the brain.
+
+
+Solution: VR experience for neuroscience education
+The reason why I choose VR to solve the problem: neuroscience can be hard, abstract, and not appealing because people cannot see what takes place in the brain. What is different from other VR products with the topic of brain/neuron trips: I will pay more attention to the journey process for education, and try to create more chances for interactions to let users be more engaged.
+Key interactions
+
+
+Design Process
+------------------------------------------------------------
+
+
+About.html
+
+
+
+
+Hi! I'm Zejun.
+I am a graduate student studying human-computer interaction at the University of Michigan. Previously, I studied advertising at Zhejiang University and had internship experience in a technology company and a brand design agency.
+I enjoy figuring out the inner needs of users, thinking about their behaviors, and telling stories that will touch them, previously through advertising and marketing campaigns and now through my design. I have a strong passion for solving problems for people, and I believe design is the path that fits me.
+I am interested in exploring mediums and various forms of interactions, from a 2D-screen based environment to a more immersive environment or a combination between the physical and virtual world.
+Through my ten-year experience of art learning, I developed the love to create and to form new ideas, while through my academic studies I developed the habits of thinking analytically and following the right process to reach the outcome.
